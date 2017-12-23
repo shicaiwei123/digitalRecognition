@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "digitalRecognize", "digitalRecognize\digitalRecognize.vcxproj", "{A4D5D7EA-9234-4929-8972-A40AA7BE7369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4D5D7EA-9234-4929-8972-A40AA7BE7369}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{A4D5D7EA-9234-4929-8972-A40AA7BE7369}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{A4D5D7EA-9234-4929-8972-A40AA7BE7369}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{A4D5D7EA-9234-4929-8972-A40AA7BE7369}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

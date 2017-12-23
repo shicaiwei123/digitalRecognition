@@ -1,0 +1,1 @@
+-ggdb -O0 -DDEBUG=1 -ffunction-sections -fdata-sections -c "digitalRecognize.cpp" -o "VisualGDB/Debug/digitalRecognize.o" -MD -MP -MF "VisualGDB/Debug/digitalRecognize.dep"

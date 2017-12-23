@@ -1,0 +1,1 @@
+-o ../VisualGDB/Debug/digitalRecognize -Wl,-gc-sections  -Wl,--start-group VisualGDB/Debug/digitalRecognize.o -Wl,--rpath='$ORIGIN' -Wl,--end-group

@@ -1,0 +1,403 @@
+VisualGDB/Debug/digitalRecognize.o: digitalRecognize.cpp \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/stdc-predef.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/iostream \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/c++config.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/os_defines.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/features.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/sys/cdefs.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/wordsize.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/gnu/stubs.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/gnu/stubs-hard.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/cpu_defines.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ostream \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ios \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/iosfwd \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stringfwd.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/memoryfwd.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/postypes.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cwchar \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/wchar.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/stdio.h \
+ c:\sysgcc\raspberry\lib\gcc\arm-linux-gnueabihf\6\include/stdarg.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/wchar.h \
+ c:\sysgcc\raspberry\lib\gcc\arm-linux-gnueabihf\6\include/stddef.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/xlocale.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/exception \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/atomic_lockfree_defines.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/exception_ptr.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/exception_defines.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/nested_exception.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/move.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/concept_check.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/type_traits \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/char_traits.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stl_algobase.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/functexcept.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/cpp_type_traits.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ext/type_traits.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ext/numeric_traits.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stl_pair.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stl_iterator_base_types.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stl_iterator_base_funcs.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/debug/assertions.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stl_iterator.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/ptr_traits.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/debug/debug.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/predefined_ops.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cstdint \
+ c:\sysgcc\raspberry\lib\gcc\arm-linux-gnueabihf\6\include/stdint.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/stdint.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/localefwd.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/c++locale.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/clocale \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/locale.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/locale.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cctype \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/ctype.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/types.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/typesizes.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/endian.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/endian.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/byteswap.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/byteswap-16.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/ios_base.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ext/atomicity.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/gthr.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/gthr-default.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/pthread.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/sched.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/time.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/sched.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/time.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/timex.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/pthreadtypes.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/setjmp.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/atomic_word.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/locale_classes.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/string \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/allocator.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/c++allocator.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ext/new_allocator.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/new \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/ostream_insert.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/cxxabi_forced.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stl_function.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/backward/binders.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/range_access.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/initializer_list \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/basic_string.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ext/alloc_traits.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/alloc_traits.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ext/string_conversions.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cstdlib \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/stdlib.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/waitflags.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/waitstatus.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/sys/types.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/sys/select.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/select.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/sigset.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/sys/sysmacros.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/alloca.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/stdlib-float.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cstdio \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/libio.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/_G_config.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/stdio_lim.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/sys_errlist.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cerrno \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/errno.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/errno.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/linux/errno.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/asm/errno.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/asm-generic/errno.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/asm-generic/errno-base.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/functional_hash.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/hash_bytes.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/basic_string.tcc \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/locale_classes.tcc \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/system_error \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/error_constants.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/stdexcept \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/streambuf \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/streambuf.tcc \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/basic_ios.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/locale_facets.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cwctype \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/wctype.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/ctype_base.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/streambuf_iterator.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/ctype_inline.h \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/locale_facets.tcc \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/basic_ios.tcc \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/ostream.tcc \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/istream \
+ c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/istream.tcc
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/stdc-predef.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/iostream:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/c++config.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/os_defines.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/features.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/sys/cdefs.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/wordsize.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/gnu/stubs.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/gnu/stubs-hard.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/cpu_defines.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ostream:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ios:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/iosfwd:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stringfwd.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/memoryfwd.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/postypes.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cwchar:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/wchar.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/stdio.h:
+
+c:\sysgcc\raspberry\lib\gcc\arm-linux-gnueabihf\6\include/stdarg.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/wchar.h:
+
+c:\sysgcc\raspberry\lib\gcc\arm-linux-gnueabihf\6\include/stddef.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/xlocale.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/exception:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/atomic_lockfree_defines.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/exception_ptr.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/exception_defines.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/nested_exception.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/move.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/concept_check.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/type_traits:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/char_traits.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stl_algobase.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/functexcept.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/cpp_type_traits.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ext/type_traits.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ext/numeric_traits.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stl_pair.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stl_iterator_base_types.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stl_iterator_base_funcs.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/debug/assertions.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stl_iterator.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/ptr_traits.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/debug/debug.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/predefined_ops.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cstdint:
+
+c:\sysgcc\raspberry\lib\gcc\arm-linux-gnueabihf\6\include/stdint.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/stdint.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/localefwd.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/c++locale.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/clocale:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/locale.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/locale.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cctype:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/ctype.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/types.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/typesizes.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/endian.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/endian.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/byteswap.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/byteswap-16.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/ios_base.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ext/atomicity.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/gthr.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/gthr-default.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/pthread.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/sched.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/time.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/sched.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/time.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/timex.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/pthreadtypes.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/setjmp.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/atomic_word.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/locale_classes.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/string:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/allocator.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/c++allocator.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ext/new_allocator.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/new:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/ostream_insert.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/cxxabi_forced.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/stl_function.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/backward/binders.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/range_access.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/initializer_list:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/basic_string.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ext/alloc_traits.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/alloc_traits.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/ext/string_conversions.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cstdlib:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/stdlib.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/waitflags.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/waitstatus.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/sys/types.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/sys/select.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/select.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/sigset.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/sys/sysmacros.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/alloca.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/stdlib-float.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cstdio:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/libio.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/_G_config.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/stdio_lim.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/sys_errlist.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cerrno:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/errno.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/bits/errno.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/linux/errno.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include\arm-linux-gnueabihf/asm/errno.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/asm-generic/errno.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/asm-generic/errno-base.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/functional_hash.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/hash_bytes.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/basic_string.tcc:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/locale_classes.tcc:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/system_error:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/error_constants.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/stdexcept:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/streambuf:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/streambuf.tcc:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/basic_ios.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/locale_facets.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/cwctype:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\sysroot\usr\include/wctype.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/ctype_base.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/streambuf_iterator.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\arm-linux-gnueabihf\c++\6/bits/ctype_inline.h:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/locale_facets.tcc:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/basic_ios.tcc:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/ostream.tcc:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/istream:
+
+c:\sysgcc\raspberry\arm-linux-gnueabihf\include\c++\6/bits/istream.tcc:
