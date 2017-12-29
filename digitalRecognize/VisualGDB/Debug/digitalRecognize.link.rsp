@@ -1,1 +1,1 @@
--o ../VisualGDB/Debug/digitalRecognize -Wl,-gc-sections  -Wl,--start-group VisualGDB/Debug/digitalRecognize.o -Wl,--rpath='$ORIGIN' -Wl,--end-group
+-o ../VisualGDB/Debug/digitalRecognize -L=/usr/local/lib -Wl,-gc-sections  -Wl,--start-group VisualGDB/Debug/digitalRecognize.o -lopencv_flann -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_imgcodecs -Wl,--rpath='$ORIGIN' -Wl,--end-group

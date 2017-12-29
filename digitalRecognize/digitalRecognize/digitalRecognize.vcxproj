@@ -34,7 +34,20 @@
     <ToolchainID>com.visualgdb.raspberry_pi</ToolchainID>
     <ToolchainVersion>6.3.0/7.12/r1</ToolchainVersion>
   </PropertyGroup>
-  <ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|VisualGDB'">
+    <ClCompile>
+      <AdditionalSystemIncludeDirectories>D:\opencv3\build\include\opencv2;D:\opencv3\build\include\opencv;D:\opencv3\build\include;%(AdditionalSystemIncludeDirectories)</AdditionalSystemIncludeDirectories>
+      <AdditionalIncludeDirectories>=/usr/local/include;%(ClCompile.AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>DEBUG=1;%(ClCompile.PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalLinkerInputs>;%(Link.AdditionalLinkerInputs)</AdditionalLinkerInputs>
+    </Link>
+    <Link>
+      <LibrarySearchDirectories>=/usr/local/lib;%(Link.LibrarySearchDirectories)</LibrarySearchDirectories>
+      <AdditionalLibraryNames>opencv_flann;opencv_core;opencv_highgui;opencv_imgproc;opencv_imgcodecs;%(Link.AdditionalLibraryNames)</AdditionalLibraryNames>
+      <LinkerScript />
+    </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="digitalRecognize.cpp" />
